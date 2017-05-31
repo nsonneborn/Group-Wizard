@@ -1,0 +1,11 @@
+name: group-wizard
+title: Group-Wizard
+account: nsonneborn
+server: shinyapps.io
+appId: 184864
+bundleId: 847626
+url: https://nsonneborn.shinyapps.io/group-wizard/
+when: 1496253683.5078
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: example_capacities.csv|example_choices.csv|README.md
